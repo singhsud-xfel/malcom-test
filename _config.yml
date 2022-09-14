@@ -1,3 +1,5 @@
 theme: minima
 title: Testing Title
 list_title: Agenda
+header_pages:
+  - references.html
