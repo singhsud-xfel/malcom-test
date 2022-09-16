@@ -5,9 +5,6 @@ header_pages:
   - references.md
   - portfolio.md
 
-author:
-  name: Sudhanshu
-  email: sudhanshu.singh@xfel.eu
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
